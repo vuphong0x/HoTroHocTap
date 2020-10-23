@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HoTroHocTap</string>
+    <string name="map_api_key" translatable="false">AIzaSyBfwV3S_fvOsYjIk4U4HYNUmPzuWzagLA0</string>
+    <string name="facebook_app_id">1102610206754861</string>
+    <string name="fb_login_protocol_scheme">fb1102610206754861</string>
+
+</resources>
